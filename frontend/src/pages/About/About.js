@@ -25,9 +25,8 @@ export default function About() {
                 </p>
                 <div className="developer-info">
                     <h4>About Developer</h4>
-                    <p className="about-content">I am Souheil, I am Full Stack Developer, AI Enthusiastic, Tutor,
-                        I love to work with technology. 
-                        I hope this project will help you. 
+                    <p className="about-content">I am Souheil, Driven Computer Science student with a strong learner attitude. History working in startups, open-sourced projects and other large-scale projects.
+                        
                     </p>
                     <h4>Contact</h4>
                     <a href="https://souheilbouzouita.netlify.app"><p className="about-content">Portfolio</p></a>
